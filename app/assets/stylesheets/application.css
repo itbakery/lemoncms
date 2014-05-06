@@ -11,5 +11,7 @@
  * file per style scope.
  *
  *= require_tree .
+ *= require sbadmin2/css/sb-admin
+ *= require font-awesome
  *= require_self
  */
